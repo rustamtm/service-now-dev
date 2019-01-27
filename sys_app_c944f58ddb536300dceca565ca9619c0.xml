@@ -2,13 +2,13 @@
 <record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="pt">41447545db936300dceca565ca961947</menu>
-        <name>pt</name>
+        <menu display_value="Tomato">d7867545db936300dceca565ca96196a</menu>
+        <name>Tomato</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -23,9 +23,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-27 19:02:07</sys_created_on>
         <sys_id>c944f58ddb536300dceca565ca9619c0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-27 19:02:07</sys_updated_on>
+        <sys_updated_on>2019-01-27 19:12:06</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_93622_pt.user" name="x_93622_pt.user">dd447545db936300dceca565ca961949</user_role>

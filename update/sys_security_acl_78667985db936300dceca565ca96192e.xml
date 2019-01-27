@@ -5,22 +5,22 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_93622_pt_purple</description>
-        <name>x_93622_pt_purple</name>
-        <operation display_value="delete">delete</operation>
+        <description>Default access control on x_93622_pt_tomato</description>
+        <name>x_93622_pt_tomato</name>
+        <operation display_value="read">read</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-27 19:02:08</sys_created_on>
-        <sys_id>55447545db936300dceca565ca9619ce</sys_id>
+        <sys_created_on>2019-01-27 19:11:22</sys_created_on>
+        <sys_id>78667985db936300dceca565ca96192e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_93622_pt_purple</sys_name>
+        <sys_name>x_93622_pt_tomato</sys_name>
         <sys_package display_value="Tomato" source="x_93622_pt">c944f58ddb536300dceca565ca9619c0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Tomato">c944f58ddb536300dceca565ca9619c0</sys_scope>
-        <sys_update_name>sys_security_acl_55447545db936300dceca565ca9619ce</sys_update_name>
+        <sys_update_name>sys_security_acl_78667985db936300dceca565ca96192e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-27 19:02:08</sys_updated_on>
+        <sys_updated_on>2019-01-27 19:11:22</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
